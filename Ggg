@@ -1,0 +1,8 @@
+prince-portfolio/
+├── index.html
+├── posters/
+│   └── cry-recruitment.jpg   ← (your uploaded image)
+├── ppts/
+│   └── marketing-ppt.pdf     ← (add your real PPT later)
+├── models/
+│   └── financial-model.xlsx  ← (add your financial model later)
